@@ -1,4 +1,4 @@
-# Apresentação
+# Sobre
 
 Sou um apaixonado profissional de Tecnologia da Informação, cuja jornada começou aos 15 anos com a programação em Pascal durante um curso de informática no CEAP. Essa experiência inicial me cativou profundamente pelo mundo da tecnologia.
 
